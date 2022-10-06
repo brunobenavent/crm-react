@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Josue otro",
+      "empresa": "Codigo Con Juan",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "eeee",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Bruno",
+      "empresa": "viveros guzman",
+      "email": "dddd@viveros.es",
+      "telefono": "655241423",
+      "notas": "no se sabe",
+      "id": 6
+    }
+  ]
+}
